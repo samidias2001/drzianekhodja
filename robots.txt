@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drzianekhodja.netlify.app/sitemap.xml
